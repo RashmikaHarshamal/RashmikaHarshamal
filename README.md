@@ -1,13 +1,10 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+
 [![Github](https://img.shields.io/github/followers/RashmikaHarshamal?label=Follow&style=social)](https://github.com/RashmikHarshamal)
 
 <div size='20px'> Hi! My name is Rashmika Harshamal. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -53,11 +50,11 @@
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![Rashmika's GitHub Activity Graph]
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Rashmika's github stats](https://github-readme-stats.vercel.app/api?username=RashmikaHarshamal&show_icons=true&theme=tokyonight) | ![Rashmika GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaHarshamal&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RashmikaHarshamal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
@@ -66,6 +63,6 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Credits: [Rashmika_Harshamal](https://github.com/RashmikaHarshamal)
 
-Last Edited on: 04/09/2021
+Last Edited on: 08/05/2025
